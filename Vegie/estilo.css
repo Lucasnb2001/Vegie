@@ -1,0 +1,66 @@
+h1{
+	text-align: center;
+	color: #97BF87;
+	padding: 10px;
+	font-size: 2.5em;
+}
+h3{
+	color: #6B785D;
+	background: #C0C9B8;
+	padding: 10px;
+	font-size: 1.5em;
+}
+p{
+	font-size: 1.2em;
+}
+a{
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	padding: 20px;
+}
+a:Hover{
+	background: white;
+	color: #97BF87;
+}
+
+body{
+	background: #F1F8EA;
+}
+
+#cabeçalho{
+	background: #97BF87;
+	padding-bottom: 10px;
+}
+#barra{
+	padding: 20px;
+	text-align: center;
+}
+#principal{
+	width: 1250px;
+	margin: 20px auto;
+}
+#rodapé{
+	clear: both;
+	text-align: center;
+}
+.seção1{
+	width: 810px;
+	padding: 10px;
+	background: white;
+	float: left;
+	margin-bottom: 20px;
+}
+.seção2{
+	background: white;
+	width: 380px;
+	height: 200px;
+	float: right;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
